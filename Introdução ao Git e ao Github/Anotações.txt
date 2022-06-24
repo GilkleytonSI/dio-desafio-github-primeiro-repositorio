@@ -1,2 +1,10 @@
 Link para download ao Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otmizar o uso do Git
+
+SHA1 - A Sigla SHA Significa Secure Hash Algorithm (Algoritmo de Hash Seguro) é
+um conjunto de funções hash criptograficas projetadas pela NSA(agência de segurança nacional dos EUA). 
+
+A Ecriptação gera conjunto de caracteres indentificados de 40 digitos.
+
+Objetos: BLOBS, TREES e COMMITS
+
